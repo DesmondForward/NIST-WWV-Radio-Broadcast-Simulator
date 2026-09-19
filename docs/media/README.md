@@ -11,16 +11,20 @@ and waveforms sampled from that soundtrack so the display and audio stay in sync
 
 ## README embed
 
-The root README uses this clickable poster to open the video:
+The root README uses a GitHub video attachment URL on its own line to display
+GitHub's inline player, including audio and playback controls:
 
 ```md
-[![Watch the 20-second WWV demo](docs/media/wwv-demo-poster.jpg)](docs/media/wwv-demo.mp4)
+https://github.com/user-attachments/assets/990113e0-4c42-4cba-a707-936427ecdd45
 ```
 
-For an inline GitHub player, attach the MP4 in GitHub's Markdown editor and
-paste the generated attachment URL into the README. See
-[GitHub's attachment guidance](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files).
-The relative Markdown above works as a clickable poster.
+Keep that URL as a standalone paragraph. A relative link to the repository's MP4
+opens the file page instead of embedding a player. The MP4 remains here as the
+downloadable source, and the poster remains available for other webpages.
+
+After regenerating the video, upload the new MP4 as a GitHub attachment and
+replace the URL in both READMEs; changing the repository file does not update the
+attachment. See [GitHub's attachment guidance](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files).
 
 For a webpage that supports HTML:
 

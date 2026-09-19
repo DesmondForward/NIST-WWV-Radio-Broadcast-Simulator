@@ -6,9 +6,9 @@ This is an independent listening application. It follows your device clock, not 
 
 ## Watch the demo
 
-[![Watch the 20-second WWV demo with audio](docs/media/wwv-demo-poster.jpg)](docs/media/wwv-demo.mp4)
+https://github.com/user-attachments/assets/990113e0-4c42-4cba-a707-936427ecdd45
 
-[▶ Play the 20-second demo](docs/media/wwv-demo.mp4) · 1080p · Original WWV audio
+20 seconds · 1080p · Original WWV audio · [Download the MP4](https://github.com/DesmondForward/NIST-WWV-Radio-Broadcast-Simulator/raw/refs/heads/main/docs/media/wwv-demo.mp4)
 
 ## Run locally
 
