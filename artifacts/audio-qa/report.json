@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-09-19T01:43:55.684Z",
+  "source": "Actual src/wwv-worklet.js with shipped clips decoded at native 44.1 kHz; worklet linear interpolation to 48 kHz. Browser decoder resampling is outside this numerical QA.",
+  "sourceHashes": {
+    "src/audio-engine.js": "5413ebe5c0855010ad4cb1ceb0cc1afb20c0ecf50a0c1dc9219ee985aaadf104",
+    "src/wwv-worklet.js": "1cbe517ce01e8814db33931cf9cfbe1b19c5aaef6db73e5aaf3c1d1ff04b808b",
+    "src/signal.js": "690c854e605d04389979d6af80b415b11b41c5f50059ad1ff5262a6ed32dda54"
+  },
+  "sampleRate": 48000,
+  "headroom": 0.72,
+  "voiceGain": 0.8447362787479713,
+  "maximumMeasuredPeak": 0.8684273362159729,
+  "announcementCount": 1440,
+  "earliestAnnouncementEnd": 57.74142857142857,
+  "latestAnnouncementEnd": 59.01514739229025,
+  "renders": [
+    {
+      "name": "500 Hz minute including voice",
+      "isoTime": "2026-09-19T21:52:00Z",
+      "duration": 60,
+      "peak": 0.7249708771705627,
+      "rms": 0.2722727118658503,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "600 Hz minute including voice",
+      "isoTime": "2026-09-19T21:53:00Z",
+      "duration": 60,
+      "peak": 0.8431344628334045,
+      "rms": 0.2728359964777367,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "440 Hz minute including voice",
+      "isoTime": "2026-09-19T21:02:00Z",
+      "duration": 60,
+      "peak": 0.8684273362159729,
+      "rms": 0.2712194573268969,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Hour identification and announcement",
+      "isoTime": "2026-09-19T21:00:00Z",
+      "duration": 60,
+      "peak": 0.8532335758209229,
+      "rms": 0.1706265414659543,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Half-hour identification",
+      "isoTime": "2026-09-19T21:30:00Z",
+      "duration": 37,
+      "peak": 0.7200000286102295,
+      "rms": 0.17830399087324547,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Longest assembled announcement",
+      "isoTime": "2026-09-19T16:53:52Z",
+      "duration": 9,
+      "peak": 0.8657463788986206,
+      "rms": 0.22071766324999806,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Short singular announcement",
+      "isoTime": "2026-09-19T01:00:52Z",
+      "duration": 9,
+      "peak": 0.8519847989082336,
+      "rms": 0.21880123608133134,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Midnight rollover",
+      "isoTime": "2026-09-19T23:59:52Z",
+      "duration": 11,
+      "peak": 0.7821274399757385,
+      "rms": 0.21269670628263276,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Only spoken announcement",
+      "isoTime": "2026-09-19T21:53:52Z",
+      "duration": 8,
+      "peak": 0.5390856862068176,
+      "rms": 0.054818868122788494,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    },
+    {
+      "name": "Only station identification",
+      "isoTime": "2026-09-19T21:00:01Z",
+      "duration": 34,
+      "peak": 0.5163002014160156,
+      "rms": 0.04672316412214329,
+      "clippedSamples": 0,
+      "nonFiniteSamples": 0
+    }
+  ]
+}

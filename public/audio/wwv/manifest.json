@@ -1,0 +1,694 @@
+{
+  "station": "WWV",
+  "source": "https://github.com/kalafut/wwv",
+  "revision": "ba716d2f7ce34002c54ffcb45fbf757551955e43",
+  "license": "MIT; see LICENSE-MIT.txt and SOURCES.md",
+  "clips": {
+    "v_0": {
+      "url": "/audio/wwv/v_0.mp3",
+      "bytes": 5516,
+      "sha256": "d95be7535fa206d991004c5651df0c00c167bff64c1227c5b8de5ea5c1bae089",
+      "sourceDecodedDurationSeconds": 0.6177324263038599,
+      "decodedDurationSeconds": 0.6177324263038548,
+      "sampleRate": 44100,
+      "monoPeak": 0.8466922044754028,
+      "monoRms": 0.1547133606009136
+    },
+    "v_1": {
+      "url": "/audio/wwv/v_1.mp3",
+      "bytes": 3331,
+      "sha256": "19f7c2c0a304736d73e3ed2923b43e1ef9e14fcef258a5a9a68477e97b996988",
+      "sourceDecodedDurationSeconds": 0.37530612244898975,
+      "decodedDurationSeconds": 0.3753061224489796,
+      "sampleRate": 44100,
+      "monoPeak": 0.8221834897994995,
+      "monoRms": 0.10510082017777152
+    },
+    "v_2": {
+      "url": "/audio/wwv/v_2.mp3",
+      "bytes": 3903,
+      "sha256": "fa842d15cf2384d65d08d85379acad0af848ca01ea1b1244dfccacba282257b6",
+      "sourceDecodedDurationSeconds": 0.4278004535147488,
+      "decodedDurationSeconds": 0.4278004535147392,
+      "sampleRate": 44100,
+      "monoPeak": 0.8452558517456055,
+      "monoRms": 0.22353927960576958
+    },
+    "v_3": {
+      "url": "/audio/wwv/v_3.mp3",
+      "bytes": 4295,
+      "sha256": "ffa6a1646ce276d34d470e73abaf502d04bd3e6a81ba2857c07cf13f90c10fdc",
+      "sourceDecodedDurationSeconds": 0.4406122448979488,
+      "decodedDurationSeconds": 0.4406122448979592,
+      "sampleRate": 44100,
+      "monoPeak": 0.8364658951759338,
+      "monoRms": 0.1835351762076666
+    },
+    "v_4": {
+      "url": "/audio/wwv/v_4.mp3",
+      "bytes": 4136,
+      "sha256": "592ea3796a1582c81925ffd96d54bd6292419f833f542d94989ef252eb5cd4d5",
+      "sourceDecodedDurationSeconds": 0.4612471655328818,
+      "decodedDurationSeconds": 0.4612471655328798,
+      "sampleRate": 44100,
+      "monoPeak": 0.8426337242126465,
+      "monoRms": 0.1733918385917102
+    },
+    "v_5": {
+      "url": "/audio/wwv/v_5.mp3",
+      "bytes": 5418,
+      "sha256": "f8a4193da3b6dcb48d3f2553bded40d7b6ab1f7e7e960a1b8da6eef789ed6a4d",
+      "sourceDecodedDurationSeconds": 0.45120181405894755,
+      "decodedDurationSeconds": 0.45120181405895693,
+      "sampleRate": 44100,
+      "monoPeak": 0.846763551235199,
+      "monoRms": 0.1162328774542314
+    },
+    "v_6": {
+      "url": "/audio/wwv/v_6.mp3",
+      "bytes": 4241,
+      "sha256": "4613e41b8e6d8edbe9e611e672547cfff84bc82ccbc9da7cb6e25b5809a9279f",
+      "sourceDecodedDurationSeconds": 0.4720861678004553,
+      "decodedDurationSeconds": 0.47208616780045354,
+      "sampleRate": 44100,
+      "monoPeak": 0.8434322476387024,
+      "monoRms": 0.12019825764519153
+    },
+    "v_7": {
+      "url": "/audio/wwv/v_7.mp3",
+      "bytes": 4422,
+      "sha256": "d9726b4193c58ec65802424bd2e1a6106f73450ceb4f8bf6105f00084ee02489",
+      "sourceDecodedDurationSeconds": 0.5101133786848209,
+      "decodedDurationSeconds": 0.5101133786848072,
+      "sampleRate": 44100,
+      "monoPeak": 0.8461918234825134,
+      "monoRms": 0.11444739864960773
+    },
+    "v_8": {
+      "url": "/audio/wwv/v_8.mp3",
+      "bytes": 3540,
+      "sha256": "7af4fd6f2dea34fe5f18263f44c0c5fd5fdb1fa983662152b53aa2ff960eca4a",
+      "sourceDecodedDurationSeconds": 0.34176870748297006,
+      "decodedDurationSeconds": 0.3417687074829932,
+      "sampleRate": 44100,
+      "monoPeak": 0.8460673093795776,
+      "monoRms": 0.1447096100233455
+    },
+    "v_9": {
+      "url": "/audio/wwv/v_9.mp3",
+      "bytes": 5759,
+      "sha256": "e9c02767ffc02a3882dfb9e4b307252b1efd9612a4a71cb491650a2d76777901",
+      "sourceDecodedDurationSeconds": 0.4513832199546641,
+      "decodedDurationSeconds": 0.45138321995464853,
+      "sampleRate": 44100,
+      "monoPeak": 0.8465907573699951,
+      "monoRms": 0.12045777748589516
+    },
+    "v_10": {
+      "url": "/audio/wwv/v_10.mp3",
+      "bytes": 4399,
+      "sha256": "4feaf011d9b78569e9c8c4f5ec9c7c8523ac6d4851c11351e6b002c5b9e379dc",
+      "sourceDecodedDurationSeconds": 0.4616099773242581,
+      "decodedDurationSeconds": 0.46160997732426307,
+      "sampleRate": 44100,
+      "monoPeak": 0.8470158576965332,
+      "monoRms": 0.12450792770834722
+    },
+    "v_11": {
+      "url": "/audio/wwv/v_11.mp3",
+      "bytes": 5545,
+      "sha256": "cb20bb26c6555115bb09aa71a2086ad5a0757b7e9708cd71f00a02d165f8d99b",
+      "sourceDecodedDurationSeconds": 0.6029478458049766,
+      "decodedDurationSeconds": 0.6029478458049886,
+      "sampleRate": 44100,
+      "monoPeak": 0.8532135486602783,
+      "monoRms": 0.11902296225280784
+    },
+    "v_12": {
+      "url": "/audio/wwv/v_12.mp3",
+      "bytes": 4761,
+      "sha256": "9a77f52cd68971c8ae4d12956fcb85684608dbb69fa7140692258536ef27f6d3",
+      "sourceDecodedDurationSeconds": 0.5205668934240464,
+      "decodedDurationSeconds": 0.5205668934240363,
+      "sampleRate": 44100,
+      "monoPeak": 0.8391115665435791,
+      "monoRms": 0.136096995145604
+    },
+    "v_13": {
+      "url": "/audio/wwv/v_13.mp3",
+      "bytes": 6141,
+      "sha256": "20057d3305992c49320b5c3ec72d17c66e0c9e9bb378e28efaec30ec2c6354ef",
+      "sourceDecodedDurationSeconds": 0.69850340136054,
+      "decodedDurationSeconds": 0.6985034013605442,
+      "sampleRate": 44100,
+      "monoPeak": 0.843313992023468,
+      "monoRms": 0.16267754215343755
+    },
+    "v_14": {
+      "url": "/audio/wwv/v_14.mp3",
+      "bytes": 6063,
+      "sha256": "6bf990c292071c4ef31c979bc5b0871f880139d52273aa7152165066a057d8f0",
+      "sourceDecodedDurationSeconds": 0.7007709750566846,
+      "decodedDurationSeconds": 0.7007709750566894,
+      "sampleRate": 44100,
+      "monoPeak": 0.8473436832427979,
+      "monoRms": 0.12725268088287886
+    },
+    "v_15": {
+      "url": "/audio/wwv/v_15.mp3",
+      "bytes": 5697,
+      "sha256": "8c2faa61b44fd4658fe0967945b615c7408481c5c73a9896706f0dce239dab72",
+      "sourceDecodedDurationSeconds": 0.6889569160997837,
+      "decodedDurationSeconds": 0.6889569160997733,
+      "sampleRate": 44100,
+      "monoPeak": 0.8440362513065338,
+      "monoRms": 0.12971878285039706
+    },
+    "v_16": {
+      "url": "/audio/wwv/v_16.mp3",
+      "bytes": 6376,
+      "sha256": "ba5bf24a6716197b887c59f28e644abfecbb4d907938aaacb8b797d43aeff5f8",
+      "sourceDecodedDurationSeconds": 0.7517233560090801,
+      "decodedDurationSeconds": 0.7517233560090703,
+      "sampleRate": 44100,
+      "monoPeak": 0.8466383218765259,
+      "monoRms": 0.14940228599242214
+    },
+    "v_17": {
+      "url": "/audio/wwv/v_17.mp3",
+      "bytes": 6403,
+      "sha256": "dc2cc0bdfbaac783cad2cdc6c48d5b6fc94784e465b8b938c5bf88bd5456df22",
+      "sourceDecodedDurationSeconds": 0.7268027210884327,
+      "decodedDurationSeconds": 0.7268027210884354,
+      "sampleRate": 44100,
+      "monoPeak": 0.8464645743370056,
+      "monoRms": 0.13316749394552252
+    },
+    "v_18": {
+      "url": "/audio/wwv/v_18.mp3",
+      "bytes": 5854,
+      "sha256": "94167e1524d345427076dc7aef742a5c274b92dfa0de9245581f51e13594df57",
+      "sourceDecodedDurationSeconds": 0.6974376417233543,
+      "decodedDurationSeconds": 0.697437641723356,
+      "sampleRate": 44100,
+      "monoPeak": 0.8466312289237976,
+      "monoRms": 0.19529250251401883
+    },
+    "v_19": {
+      "url": "/audio/wwv/v_19.mp3",
+      "bytes": 6038,
+      "sha256": "9ac70427b9d0991639c81c338de0385c18ce803d29984484031dc83cb12daf71",
+      "sourceDecodedDurationSeconds": 0.7121768707482943,
+      "decodedDurationSeconds": 0.7121768707482993,
+      "sampleRate": 44100,
+      "monoPeak": 0.8262293636798859,
+      "monoRms": 0.11331605289945319
+    },
+    "v_20": {
+      "url": "/audio/wwv/v_20.mp3",
+      "bytes": 4451,
+      "sha256": "48c9d3f1d4e0c86d61d9de729749332069d268598365d9f9adb715b9546c9366",
+      "sourceDecodedDurationSeconds": 0.458458049886616,
+      "decodedDurationSeconds": 0.4584580498866213,
+      "sampleRate": 44100,
+      "monoPeak": 0.84825599193573,
+      "monoRms": 0.11007561202181156
+    },
+    "v_21": {
+      "url": "/audio/wwv/v_21.mp3",
+      "bytes": 6220,
+      "sha256": "465a073d69033267234fc5aa574eace79b164386dccf1478daf96b16bd25aaf6",
+      "sourceDecodedDurationSeconds": 0.744489795918355,
+      "decodedDurationSeconds": 0.7444897959183674,
+      "sampleRate": 44100,
+      "monoPeak": 0.8878510594367981,
+      "monoRms": 0.12388020065495343
+    },
+    "v_22": {
+      "url": "/audio/wwv/v_22.mp3",
+      "bytes": 6348,
+      "sha256": "314200e28d4bd113ec07fc839f3272fe48f5bdc12616c339181132d40af9c2de",
+      "sourceDecodedDurationSeconds": 0.7512471655328739,
+      "decodedDurationSeconds": 0.7512471655328798,
+      "sampleRate": 44100,
+      "monoPeak": 0.8481324911117554,
+      "monoRms": 0.10909793316634385
+    },
+    "v_23": {
+      "url": "/audio/wwv/v_23.mp3",
+      "bytes": 5959,
+      "sha256": "3a157ebb1937bffb7f239bf57ccd7d9acfeb68de0bc6793897ea412ab8856287",
+      "sourceDecodedDurationSeconds": 0.6938548752834492,
+      "decodedDurationSeconds": 0.6938548752834467,
+      "sampleRate": 44100,
+      "monoPeak": 0.8635054230690002,
+      "monoRms": 0.11039275866231339
+    },
+    "v_24": {
+      "url": "/audio/wwv/v_24.mp3",
+      "bytes": 7944,
+      "sha256": "98e781657f48b40eb1909ac1a122865db0d31e92aa526cf6271f17e006bf7f6b",
+      "sourceDecodedDurationSeconds": 0.7546485260770908,
+      "decodedDurationSeconds": 0.7546485260770975,
+      "sampleRate": 44100,
+      "monoPeak": 0.8467941284179688,
+      "monoRms": 0.11981078422355587
+    },
+    "v_25": {
+      "url": "/audio/wwv/v_25.mp3",
+      "bytes": 7970,
+      "sha256": "38759556d4bf0593e38e943a7bd70483da62988b1a49947d0b49e77ab5e970f6",
+      "sourceDecodedDurationSeconds": 0.7362811791383308,
+      "decodedDurationSeconds": 0.736281179138322,
+      "sampleRate": 44100,
+      "monoPeak": 0.8467914462089539,
+      "monoRms": 0.10071559828951056
+    },
+    "v_26": {
+      "url": "/audio/wwv/v_26.mp3",
+      "bytes": 5672,
+      "sha256": "b717f9fe44465b1c47990a1f10944c3b4f7b414a749d828223c291d9dcf7d16d",
+      "sourceDecodedDurationSeconds": 0.6450566893423968,
+      "decodedDurationSeconds": 0.6450566893424037,
+      "sampleRate": 44100,
+      "monoPeak": 0.8454597592353821,
+      "monoRms": 0.10105863860290078
+    },
+    "v_27": {
+      "url": "/audio/wwv/v_27.mp3",
+      "bytes": 6923,
+      "sha256": "d5cdd4899e3c9c1ecbf3df10ae2409a47012ce1d86a3d507ef03fa4779114df1",
+      "sourceDecodedDurationSeconds": 0.7596145124716429,
+      "decodedDurationSeconds": 0.7596145124716553,
+      "sampleRate": 44100,
+      "monoPeak": 0.8476238250732422,
+      "monoRms": 0.09498759136126975
+    },
+    "v_28": {
+      "url": "/audio/wwv/v_28.mp3",
+      "bytes": 4450,
+      "sha256": "6028c4e0a09cbccf9cf0dfdafa8a81d9c3860efc01686cb16d27384118a71de1",
+      "sourceDecodedDurationSeconds": 0.4861904761904725,
+      "decodedDurationSeconds": 0.4861904761904762,
+      "sampleRate": 44100,
+      "monoPeak": 0.8488738536834717,
+      "monoRms": 0.11831358436756968
+    },
+    "v_29": {
+      "url": "/audio/wwv/v_29.mp3",
+      "bytes": 7528,
+      "sha256": "271c1873abfc55a0f72afcebd133dc9d75b4db2f069c4ee527b0292b78bfcf9e",
+      "sourceDecodedDurationSeconds": 0.7004535147392232,
+      "decodedDurationSeconds": 0.700453514739229,
+      "sampleRate": 44100,
+      "monoPeak": 0.8463367819786072,
+      "monoRms": 0.10570278303492686
+    },
+    "v_30": {
+      "url": "/audio/wwv/v_30.mp3",
+      "bytes": 3540,
+      "sha256": "4d000618389336e54f22608d237fd8febaa3d2082515a755abc0e693dcd23d47",
+      "sourceDecodedDurationSeconds": 0.3932879818594017,
+      "decodedDurationSeconds": 0.39328798185941044,
+      "sampleRate": 44100,
+      "monoPeak": 0.856031984090805,
+      "monoRms": 0.17513596751453187
+    },
+    "v_31": {
+      "url": "/audio/wwv/v_31.mp3",
+      "bytes": 7214,
+      "sha256": "756d899d3cda73e30d43cd08e0831cae22bb61cd8d993afb8864bc1a94e29e10",
+      "sourceDecodedDurationSeconds": 0.6874376417233634,
+      "decodedDurationSeconds": 0.687437641723356,
+      "sampleRate": 44100,
+      "monoPeak": 0.8468897342681885,
+      "monoRms": 0.1410791152496078
+    },
+    "v_32": {
+      "url": "/audio/wwv/v_32.mp3",
+      "bytes": 5465,
+      "sha256": "1028d82d48b8e800cd3ada4cec02d80d717a722c18d99918420aba3291c19d4c",
+      "sourceDecodedDurationSeconds": 0.6247392290249536,
+      "decodedDurationSeconds": 0.6247392290249433,
+      "sampleRate": 44100,
+      "monoPeak": 0.8486910462379456,
+      "monoRms": 0.10833882009944681
+    },
+    "v_33": {
+      "url": "/audio/wwv/v_33.mp3",
+      "bytes": 6480,
+      "sha256": "6f61e6e218a637604900a87484e8fc19c5205267598ebfb680050d3997cdb65f",
+      "sourceDecodedDurationSeconds": 0.7231292517006693,
+      "decodedDurationSeconds": 0.7231292517006803,
+      "sampleRate": 44100,
+      "monoPeak": 0.8449726700782776,
+      "monoRms": 0.1204393694958744
+    },
+    "v_34": {
+      "url": "/audio/wwv/v_34.mp3",
+      "bytes": 7708,
+      "sha256": "4ae9db378275eb8007c61c71c732a49c2c1f45a9eb1d89bb77ff5df2d16e3a20",
+      "sourceDecodedDurationSeconds": 0.7036961451247237,
+      "decodedDurationSeconds": 0.7036961451247166,
+      "sampleRate": 44100,
+      "monoPeak": 0.8445290327072144,
+      "monoRms": 0.13439753190730935
+    },
+    "v_35": {
+      "url": "/audio/wwv/v_35.mp3",
+      "bytes": 7918,
+      "sha256": "7517cfbae519514dac066d0ce2a9f105117221c06833f620dccae29b44b892c6",
+      "sourceDecodedDurationSeconds": 0.7529478458049823,
+      "decodedDurationSeconds": 0.7529478458049886,
+      "sampleRate": 44100,
+      "monoPeak": 0.844727098941803,
+      "monoRms": 0.09990362935795088
+    },
+    "v_36": {
+      "url": "/audio/wwv/v_36.mp3",
+      "bytes": 5751,
+      "sha256": "9ee62dbe69759a5ac4323f02db3f35b69c88f7b413706cd29004700e5ac82937",
+      "sourceDecodedDurationSeconds": 0.6629705215419506,
+      "decodedDurationSeconds": 0.6629705215419501,
+      "sampleRate": 44100,
+      "monoPeak": 0.8474416732788086,
+      "monoRms": 0.1166572889639321
+    },
+    "v_37": {
+      "url": "/audio/wwv/v_37.mp3",
+      "bytes": 6456,
+      "sha256": "b9e436ec5e77e5c001daa2f6b361f549b923e901b221d9ea1a12744b784b727e",
+      "sourceDecodedDurationSeconds": 0.6797278911564604,
+      "decodedDurationSeconds": 0.6797278911564626,
+      "sampleRate": 44100,
+      "monoPeak": 0.8473733067512512,
+      "monoRms": 0.12128336593238923
+    },
+    "v_38": {
+      "url": "/audio/wwv/v_38.mp3",
+      "bytes": 5206,
+      "sha256": "921373a6677faeb6074b1dea64e4a9a9fa7dd90d1a5094c73304ca57cc7dffad",
+      "sourceDecodedDurationSeconds": 0.5236281179138587,
+      "decodedDurationSeconds": 0.5236281179138322,
+      "sampleRate": 44100,
+      "monoPeak": 0.8563637137413025,
+      "monoRms": 0.16985541347047584
+    },
+    "v_39": {
+      "url": "/audio/wwv/v_39.mp3",
+      "bytes": 5908,
+      "sha256": "c5d468ebb72c78ad59a5988f500d2b9dd09f3911588ecefb2f967b6c77ac1257",
+      "sourceDecodedDurationSeconds": 0.6321541950113101,
+      "decodedDurationSeconds": 0.6321541950113378,
+      "sampleRate": 44100,
+      "monoPeak": 0.8488417863845825,
+      "monoRms": 0.13978911162929644
+    },
+    "v_40": {
+      "url": "/audio/wwv/v_40.mp3",
+      "bytes": 3669,
+      "sha256": "b22d498991e14681ebd1d72610a344c5fcae8383129603a3a6364408eb0a1e95",
+      "sourceDecodedDurationSeconds": 0.39804988662132246,
+      "decodedDurationSeconds": 0.3980498866213152,
+      "sampleRate": 44100,
+      "monoPeak": 0.8449373841285706,
+      "monoRms": 0.17654447787024763
+    },
+    "v_41": {
+      "url": "/audio/wwv/v_41.mp3",
+      "bytes": 6092,
+      "sha256": "b154b732e2aacc771e0d819ff4945ea2d711421e3d8494a153480ed2e5e543e8",
+      "sourceDecodedDurationSeconds": 0.6921541950113124,
+      "decodedDurationSeconds": 0.6921541950113379,
+      "sampleRate": 44100,
+      "monoPeak": 0.8459474444389343,
+      "monoRms": 0.15926779096530774
+    },
+    "v_42": {
+      "url": "/audio/wwv/v_42.mp3",
+      "bytes": 6321,
+      "sha256": "c8c100fd56fd5f30439c086679d3dd3ce6e845ded717cc3c2089f9a8aa0bbcf4",
+      "sourceDecodedDurationSeconds": 0.7575510204081866,
+      "decodedDurationSeconds": 0.7575510204081632,
+      "sampleRate": 44100,
+      "monoPeak": 0.8469287157058716,
+      "monoRms": 0.16283375054698074
+    },
+    "v_43": {
+      "url": "/audio/wwv/v_43.mp3",
+      "bytes": 5932,
+      "sha256": "6c7ba0f84533bcfcfddec598d27903009813947c2c9b962c5f8621f2b961fdab",
+      "sourceDecodedDurationSeconds": 0.6925170068027455,
+      "decodedDurationSeconds": 0.6925170068027211,
+      "sampleRate": 44100,
+      "monoPeak": 0.8476850986480713,
+      "monoRms": 0.2055459195014192
+    },
+    "v_44": {
+      "url": "/audio/wwv/v_44.mp3",
+      "bytes": 6222,
+      "sha256": "d3b57064a92fa9643b98b6de23c1ef5176a0b18a6e0944a646228d2c1b6801e8",
+      "sourceDecodedDurationSeconds": 0.6893197278911316,
+      "decodedDurationSeconds": 0.6893197278911565,
+      "sampleRate": 44100,
+      "monoPeak": 0.867618978023529,
+      "monoRms": 0.15288641947375126
+    },
+    "v_45": {
+      "url": "/audio/wwv/v_45.mp3",
+      "bytes": 6823,
+      "sha256": "04fa59efe23c341af1c49ef50c313c00740101cfb0ee01350d98113a9cb97862",
+      "sourceDecodedDurationSeconds": 0.7292970521542088,
+      "decodedDurationSeconds": 0.729297052154195,
+      "sampleRate": 44100,
+      "monoPeak": 0.8441594243049622,
+      "monoRms": 0.13424594024713457
+    },
+    "v_46": {
+      "url": "/audio/wwv/v_46.mp3",
+      "bytes": 6089,
+      "sha256": "f3e1536b7f9dc80d3cba07bab0628781c37f50415b6abc1e45495cb93ed8c991",
+      "sourceDecodedDurationSeconds": 0.7031292517006591,
+      "decodedDurationSeconds": 0.7031292517006803,
+      "sampleRate": 44100,
+      "monoPeak": 0.846132218837738,
+      "monoRms": 0.16637438028235763
+    },
+    "v_47": {
+      "url": "/audio/wwv/v_47.mp3",
+      "bytes": 6558,
+      "sha256": "14f71cf8cd965b84539de3921729fc2588a96db20097f1d1ee02be5c100a5a0e",
+      "sourceDecodedDurationSeconds": 0.7681179138322136,
+      "decodedDurationSeconds": 0.7681179138321995,
+      "sampleRate": 44100,
+      "monoPeak": 0.8465116024017334,
+      "monoRms": 0.1407256059019535
+    },
+    "v_48": {
+      "url": "/audio/wwv/v_48.mp3",
+      "bytes": 5751,
+      "sha256": "4aa159abbf6285820ace9cf489cfc2794807b698b82009ef4f384da4be8a8ecd",
+      "sourceDecodedDurationSeconds": 0.6312925170067842,
+      "decodedDurationSeconds": 0.6312925170068027,
+      "sampleRate": 44100,
+      "monoPeak": 0.8505563735961914,
+      "monoRms": 0.14990705398858778
+    },
+    "v_49": {
+      "url": "/audio/wwv/v_49.mp3",
+      "bytes": 8050,
+      "sha256": "33a4dc0a3d3bb3b95a2ab6293303f48812f138bc7014a97b3eb902256efe943a",
+      "sourceDecodedDurationSeconds": 0.7679138321995538,
+      "decodedDurationSeconds": 0.7679138321995465,
+      "sampleRate": 44100,
+      "monoPeak": 0.8457971811294556,
+      "monoRms": 0.14353081164756276
+    },
+    "v_50": {
+      "url": "/audio/wwv/v_50.mp3",
+      "bytes": 4347,
+      "sha256": "e192338dfa3e43fef53b77db6f775327c1c458a9df5267c21137de98f20d69c0",
+      "sourceDecodedDurationSeconds": 0.47342403628118745,
+      "decodedDurationSeconds": 0.47342403628117913,
+      "sampleRate": 44100,
+      "monoPeak": 0.8454680442810059,
+      "monoRms": 0.11331193831761195
+    },
+    "v_51": {
+      "url": "/audio/wwv/v_51.mp3",
+      "bytes": 7158,
+      "sha256": "b7b7faff23738af7dd5d00731bd6edfbdc1378d1f49a6fcc2ae529c747ae19f4",
+      "sourceDecodedDurationSeconds": 0.7720634920634666,
+      "decodedDurationSeconds": 0.7720634920634921,
+      "sampleRate": 44100,
+      "monoPeak": 0.8468071818351746,
+      "monoRms": 0.11076426122048538
+    },
+    "v_52": {
+      "url": "/audio/wwv/v_52.mp3",
+      "bytes": 6562,
+      "sha256": "eff65dafee4836558995dbdfd43451853c727a25166d04e82e73bf625af3871f",
+      "sourceDecodedDurationSeconds": 0.7249206349206361,
+      "decodedDurationSeconds": 0.724920634920635,
+      "sampleRate": 44100,
+      "monoPeak": 0.843401312828064,
+      "monoRms": 0.10947255012027998
+    },
+    "v_53": {
+      "url": "/audio/wwv/v_53.mp3",
+      "bytes": 7056,
+      "sha256": "7f4075f107ed1e5004a62d1f848b82c7938a0cbb0ee4003d215089fa29b7f1ca",
+      "sourceDecodedDurationSeconds": 0.7884807256235717,
+      "decodedDurationSeconds": 0.7884807256235827,
+      "sampleRate": 44100,
+      "monoPeak": 0.8505161106586456,
+      "monoRms": 0.09121739799087972
+    },
+    "v_54": {
+      "url": "/audio/wwv/v_54.mp3",
+      "bytes": 7263,
+      "sha256": "c064cd22967a896f28e168d2455a1f51cc1c0827c9322e0c8e5743254874721f",
+      "sourceDecodedDurationSeconds": 0.8726303854875255,
+      "decodedDurationSeconds": 0.8726303854875284,
+      "sampleRate": 44100,
+      "monoPeak": 0.8431075513362885,
+      "monoRms": 0.10843176064605564
+    },
+    "v_55": {
+      "url": "/audio/wwv/v_55.mp3",
+      "bytes": 8258,
+      "sha256": "8690b110d788354db8790b5f233f22ee142038d94b5f145be60030266fca7cb6",
+      "sourceDecodedDurationSeconds": 0.7740816326530648,
+      "decodedDurationSeconds": 0.7740816326530612,
+      "sampleRate": 44100,
+      "monoPeak": 0.8430982828140259,
+      "monoRms": 0.11549846485612826
+    },
+    "v_56": {
+      "url": "/audio/wwv/v_56.mp3",
+      "bytes": 4842,
+      "sha256": "85aa5000c090180dec5e8d8c66f943b2667b4efdc7c8ab7d8aa713f647b68433",
+      "sourceDecodedDurationSeconds": 0.5738775510204164,
+      "decodedDurationSeconds": 0.5738775510204082,
+      "sampleRate": 44100,
+      "monoPeak": 0.6492618918418884,
+      "monoRms": 0.08081056140359556
+    },
+    "v_57": {
+      "url": "/audio/wwv/v_57.mp3",
+      "bytes": 6504,
+      "sha256": "921653f688f498408d81855e070cb0038e73a598c25d6c7078f241a45589e6ad",
+      "sourceDecodedDurationSeconds": 0.7660997732426154,
+      "decodedDurationSeconds": 0.7660997732426303,
+      "sampleRate": 44100,
+      "monoPeak": 0.8438875675201416,
+      "monoRms": 0.11080527758469075
+    },
+    "v_58": {
+      "url": "/audio/wwv/v_58.mp3",
+      "bytes": 5989,
+      "sha256": "4754fda8a7936b5972905298962a28243614a4e2b28924144ce9185c21381da0",
+      "sourceDecodedDurationSeconds": 0.6305215419500882,
+      "decodedDurationSeconds": 0.6305215419501133,
+      "sampleRate": 44100,
+      "monoPeak": 0.8327072262763977,
+      "monoRms": 0.15430162001143552
+    },
+    "v_59": {
+      "url": "/audio/wwv/v_59.mp3",
+      "bytes": 8073,
+      "sha256": "a18589491e47a83f280c24486d9a78c032053c4a864f2d6a6356e902efb99345",
+      "sourceDecodedDurationSeconds": 0.7994331065759752,
+      "decodedDurationSeconds": 0.7994331065759637,
+      "sampleRate": 44100,
+      "monoPeak": 0.8465126752853394,
+      "monoRms": 0.12140579607234832
+    },
+    "v_at_the_tone": {
+      "url": "/audio/wwv/v_at_the_tone.mp3",
+      "bytes": 6430,
+      "sha256": "d349cf161d0d9c68283649a985163b5fdbcff9d11ef81003f76c034beabd7bd8",
+      "sourceDecodedDurationSeconds": 0.7098639455782063,
+      "decodedDurationSeconds": 0.7098639455782313,
+      "sampleRate": 44100,
+      "monoPeak": 0.8122600317001343,
+      "monoRms": 0.1119595251467365
+    },
+    "v_hour": {
+      "url": "/audio/wwv/v_hour.mp3",
+      "bytes": 4483,
+      "sha256": "72a1479b417c685cef2cdf1b5d24789b1e30061d33b223ea443e80333f4b65f1",
+      "sourceDecodedDurationSeconds": 0.4106349206349478,
+      "decodedDurationSeconds": 0.41063492063492063,
+      "sampleRate": 44100,
+      "monoPeak": 0.8484135270118713,
+      "monoRms": 0.11094793819170835
+    },
+    "v_hours": {
+      "url": "/audio/wwv/v_hours.mp3",
+      "bytes": 6928,
+      "sha256": "792747a709daae9a665e3c6638b21c964dace47472cf65c6149f773f107c31dc",
+      "sourceDecodedDurationSeconds": 0.6552380952380759,
+      "decodedDurationSeconds": 0.6552380952380953,
+      "sampleRate": 44100,
+      "monoPeak": 0.846576452255249,
+      "monoRms": 0.11301124673543134
+    },
+    "v_minute": {
+      "url": "/audio/wwv/v_minute.mp3",
+      "bytes": 3879,
+      "sha256": "cbfafb78acba1dd9e20335e93449440eec44652e55963522151820e3d3d51388",
+      "sourceDecodedDurationSeconds": 0.4287301587301613,
+      "decodedDurationSeconds": 0.42873015873015874,
+      "sampleRate": 44100,
+      "monoPeak": 0.8413645625114441,
+      "monoRms": 0.1252161172901278
+    },
+    "v_minutes": {
+      "url": "/audio/wwv/v_minutes.mp3",
+      "bytes": 5649,
+      "sha256": "9fa58514a16acf62553d87f900f3c9ec06df32f2f42b449e50d0fd764eef0abb",
+      "sourceDecodedDurationSeconds": 0.5841043083900104,
+      "decodedDurationSeconds": 0.5841043083900227,
+      "sampleRate": 44100,
+      "monoPeak": 0.8470708131790161,
+      "monoRms": 0.09483452397608351
+    },
+    "v_utc": {
+      "url": "/audio/wwv/v_utc.mp3",
+      "bytes": 13640,
+      "sha256": "677e173fe1467905ecbceed209c6a54e008c329b74cf94ffb3989c8989a8195c",
+      "sourceDecodedDurationSeconds": 1.6514512471655394,
+      "decodedDurationSeconds": 1.651451247165533,
+      "sampleRate": 44100,
+      "monoPeak": 0.8463025689125061,
+      "monoRms": 0.11714385739824745
+    },
+    "v_ident_better": {
+      "url": "/audio/wwv/v_ident_better.mp3",
+      "bytes": 457623,
+      "sha256": "d49cbd66f6bc4b1888abbc390c8429c87f748b354feab9b957eb8c3c5b81d6bf",
+      "decodedDurationSeconds": 33.26832199546485,
+      "sampleRate": 44100,
+      "monoPeak": 0.6645984053611755,
+      "monoRms": 0.0661944996209022,
+      "containsEmbeddedTicks": true
+    },
+    "v_ident_clean": {
+      "url": "/audio/wwv/v_ident_clean.wav",
+      "bytes": 2935816,
+      "sha256": "9d9f42845d70d17822bda972a1e1f97e54b79cb6f2460bc86498ac0d69533040",
+      "decodedDurationSeconds": 33.28539682539682,
+      "sampleRate": 44100,
+      "monoPeak": 0.85,
+      "monoRms": 0.07789269659717257,
+      "derivedFrom": "v_ident_better",
+      "leadingPaddingSeconds": 0.01707482993197279,
+      "gainApplied": 1.2789678596024738,
+      "containsEmbeddedTicks": false,
+      "broadcastStartSecond": 1
+    }
+  },
+  "commonSpeechPeak": 0.8878510594367981,
+  "commonGainFor75PercentModulation": 0.8447362787129601
+}
