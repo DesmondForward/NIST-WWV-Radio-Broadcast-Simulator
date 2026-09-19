@@ -4,6 +4,12 @@ A web recreation of WWV's familiar seconds pulses, reference tones, and spoken U
 
 This is an independent listening application. It follows your device clock, not a connection to NIST's atomic clocks, and does not receive the live broadcast. The original voice recordings have telephone or radio bandwidth; an indistinguishable studio-quality match cannot be guaranteed.
 
+## Watch the demo
+
+[![Watch the 20-second WWV demo with audio](docs/media/wwv-demo-poster.jpg)](docs/media/wwv-demo.mp4)
+
+[▶ Play the 20-second demo](docs/media/wwv-demo.mp4) · 1080p · Original WWV audio
+
 ## Run locally
 
 Use Node.js 22.12 or later, or Node.js 20.19 or later in the 20.x series, and a browser with Web Audio and AudioWorklet support.
